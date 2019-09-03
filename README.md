@@ -1,4 +1,7 @@
 # coin-address
 my cryption coin coin-address
+
 xmr: 49Kns9brHRwUtD9FpUMC2RKThHJLp4Bn7RSMKHwQb6zDNxi5JGky2JeFL71AtfhXBe7JXovRpbzvKZYq8dTiEpXnKQT1raq
+
+
 loki: L7KmCYVLLPa1vbCsvg9HAejn9M1P9FyMy9X1ECdeT5p8DiCQs2GDtoiXPXwaXBMGqxKCAWnRBFUZ2ViSR7kpvwL96crD5iy
